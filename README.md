@@ -1,4 +1,4 @@
-Link lab 10 (https://github.com/devinovitasari99/lab10_php_oop)
+# Link lab 10 (https://github.com/devinovitasari99/lab10_php_oop)
 
 # lab9_php_modular
 Modularisasi sendiri merupakan proses penyederhanaan program yang kompleks menjadi lebih efisien. Program disusun berdasarkan modul-modul yang berupa function atau prosedur. Sebagai contoh, dalam pembuatan website terdapat halaman index/utama yang terdiri dari header, konten, dan footer. Apabila halaman index tersebut diselesaikan tanpa menggunakan modul, maka akan hanya ada satu file php saja, namun dengan banyak baris kode program didalamnya. Kendalanya adalah ketika terjadi kesalahan, maka akan terlihat rumit untuk menemukan dan memperbaiki kesalahan tersebut.
@@ -43,18 +43,18 @@ output
 
 Membuat file footer.php untuk kemudian di masukan ke index dengan menggunakan require
 
-![logo]()
+![logo](https://github.com/devinovitasari99/lab9_php_modular/blob/main/footer.php)
 
 Buat file baru dengan nama header.php
 
-![logo]()
+![logo](https://github.com/devinovitasari99/lab9_php_modular/blob/main/header.PNG)
 
 Menambahkan Style CSS untuk mepercantik tample
 
-![logo]()
+![logo](https://github.com/devinovitasari99/lab9_php_modular/blob/main/style.css)
 
 Output
 
-![logo]()
+![logo](https://github.com/devinovitasari99/lab9_php_modular/blob/main/op%20header.PNG)
 
-![logo]()
+![logo](https://github.com/devinovitasari99/lab9_php_modular/blob/main/op%20home.PNG)
